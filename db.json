@@ -1,72 +1,24 @@
-[
-  {
-    "_id": "5a61ec79153a8c68050f0a13",
-    "index": 0,
-    "name": "Toni Sellers",
-    "gender": "female",
-    "company": "UPDAT"
-  },
-  {
-    "_id": "5a61ec791ea54882f8a1ccaa",
-    "index": 1,
-    "name": "Shaffer West",
-    "gender": "male",
-    "company": "TERRAGO"
-  },
-  {
-    "_id": "5a61ec79cbb22b6d55135b1d",
-    "index": 2,
-    "name": "Crane Best",
-    "gender": "male",
-    "company": "GEOSTELE"
-  },
-  {
-    "_id": "5a61ec79d5f26a723b3cc774",
-    "index": 3,
-    "name": "Hall Harding",
-    "gender": "male",
-    "company": "EMTRAC"
-  },
-  {
-    "_id": "5a61ec79708f86b417591d72",
-    "index": 4,
-    "name": "Helena Rivera",
-    "gender": "female",
-    "company": "COMDOM"
-  },
-  {
-    "_id": "5a61ec79ec6ab60d3c3bef70",
-    "index": 5,
-    "name": "Craig Hartman",
-    "gender": "male",
-    "company": "DRAGBOT"
-  },
-  {
-    "_id": "5a61ec79a31614f5a18c15bc",
-    "index": 6,
-    "name": "May Velasquez",
-    "gender": "female",
-    "company": "NEUROCELL"
-  },
-  {
-    "_id": "5a61ec7900b401098c51f048",
-    "index": 7,
-    "name": "Mendez Marquez",
-    "gender": "male",
-    "company": "NURALI"
-  },
-  {
-    "_id": "5a61ec796e53911898ca34e7",
-    "index": 8,
-    "name": "Alana Mendez",
-    "gender": "female",
-    "company": "TURNABOUT"
-  },
-  {
-    "_id": "5a61ec79f237514788385d9a",
-    "index": 9,
-    "name": "Rosemary Pugh",
-    "gender": "female",
-    "company": "CUIZINE"
-  }
+userArray : [
+  
+	  {
+		"_id": "5a61ec79ec6ab60d3c3bef70",
+		"index": 5,
+		"name": "Craig Hartman",
+		"gender": "male",
+		"company": "DRAGBOT"
+	  },
+	  {
+		"_id": "5a61ec79a31614f5a18c15bc",
+		"index": 6,
+		"name": "May Velasquez",
+		"gender": "female",
+		"company": "NEUROCELL"
+	  },
+	  {
+		"_id": "5a61ec7900b401098c51f048",
+		"index": 7,
+		"name": "Mendez Marquez",
+		"gender": "male",
+		"company": "NURALI"
+	  }
 ]
